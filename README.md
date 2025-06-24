@@ -44,7 +44,7 @@ This project aims to predict the presence of **heart disease** in patients based
 
 ## 🚀 Run the Notebook
 
-👉 [Open in Colab](https://colab.research.google.com/)  
+👉 [Open in Colab](https://colab.research.google.com/drive/1WU4FTGEkVfeAOF1EtYcl0pcatO7k7j7c)  
 → Upload: `heart_KNN_LOGREG_DT_RF_ADAB.ipynb`
 
 ---
