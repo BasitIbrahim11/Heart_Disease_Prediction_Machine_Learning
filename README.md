@@ -52,7 +52,7 @@ This project aims to predict the presence of **heart disease** in patients based
 ## 👤 Author
 
 - **Name**: Basit Ibrahim  
-- **GitHub**: [github.com/yourusername](https://github.com/BasitIbrahim11)  
+- **GitHub**: [github.com/BasitIbrahim11](https://github.com/BasitIbrahim11)  
 - **Background**: MS in Artificial Intelligence  
 - **Domain**: Medical ML | Classification | Data Science
 
